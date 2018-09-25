@@ -31,6 +31,20 @@
   text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
 }
 
+#text3 {
+  width: 50%;
+  height: 20vh;
+  position:absolute; top:15%; left:42%;
+  text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
+}
+
+#text4 {
+  width: 50%;
+  height: 20vh;
+  position:absolute; top:86%; left:42%;
+  text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
+}
+
 .pos {
   position:absolute; top:22%; left:10%;
 }
