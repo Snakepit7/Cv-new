@@ -4,14 +4,6 @@
       color: white;
       }
 
-  #avatar {
-        background-image: url(/home/julienf/Bureau/user_3_Artboard_1-512.png);
-        background-repeat: no-repeat;
-        width: 50%;
-        height: 60vh;
-        padding: 0;
-      }
-
   .img {
   	width: 50%;
   	height: 40vh;
@@ -25,24 +17,10 @@
     text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
   }
 
-  #text2 {
-    width: 50%;
-    height: 20vh;
-    position:absolute; top:80%; left:42%;
-    text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
-  }
-
   #text3 {
     width: 50%;
     height: 20vh;
     position:absolute; top:15%; left:46%;
-    text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
-  }
-
-  #text4 {
-    width: 50%;
-    height: 20vh;
-    position:absolute; top:86%; left:42%;
     text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
   }
 
@@ -61,3 +39,30 @@
   .pos4 {
     position:absolute; top:22%; left:48%;
   }
+
+#listdip {
+  text-align: center;
+  margin-top: 20px;
+}
+/*******************************************************INDEX********************************************************/
+  #avatar {
+      background-image: url(/home/julienf/Bureau/user_3_Artboard_1-512.png);
+      background-repeat: no-repeat;
+      width: 50%;
+      height: 60vh;
+      padding: 0;
+    }
+
+  #text2 {
+      width: 50%;
+      height: 20vh;
+      position:absolute; top:80%; left:42%;
+      text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
+    }
+
+  #text4 {
+        width: 50%;
+        height: 20vh;
+        position:absolute; top:86%; left:42%;
+        text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
+      }
