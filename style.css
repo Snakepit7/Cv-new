@@ -1,50 +1,12 @@
+/*******************************************Toutes pages************************************************************/
 
   .body {
       background-color: #2A2A2A;
       color: white;
       }
 
-  .img {
-  	width: 50%;
-  	height: 40vh;
-    position:absolute; top:10%; left:30%;
-  }
-
-  #text {
-    width: 50%;
-    height: 20vh;
-    position:absolute; top:15%; left:10%;
-    text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
-  }
-
-  #text3 {
-    width: 50%;
-    height: 20vh;
-    position:absolute; top:15%; left:46%;
-    text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
-  }
-
-  .pos {
-    position:absolute; top:22%; left:10%;
-  }
-
-  .pos2 {
-    position:absolute; top:22%; left:12%;
-  }
-
-  .pos3 {
-    position:absolute; top:22%; left:46%;
-  }
-
-  .pos4 {
-    position:absolute; top:22%; left:48%;
-  }
-
-#listdip {
-  text-align: center;
-  margin-top: 20px;
-}
 /*******************************************************INDEX********************************************************/
+
   #avatar {
       background-image: url(/home/julienf/CV-test/images/user_3_Artboard_1-512.png);
       background-repeat: no-repeat;
@@ -66,3 +28,51 @@
         position:absolute; top:86%; left:42%;
         text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
       }
+
+  .img {
+        width: 50%;
+        height: 40vh;
+        position:absolute; top:10%; left:30%;
+      }
+/**********************************************DIPLOMES*********************************************************/
+
+#listdip {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/**************************************************COMPETENCES**************************************************/
+
+#text {
+  width: 50%;
+  height: 20vh;
+  position:absolute; top:15%; left:10%;
+  text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
+}
+
+#text3 {
+  width: 50%;
+  height: 20vh;
+  position:absolute; top:15%; left:46%;
+  text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
+}
+
+.pos {
+  position:absolute; top:22%; left:10%;
+}
+
+.pos2 {
+  position:absolute; top:22%; left:12%;
+}
+
+.pos3 {
+  position:absolute; top:22%; left:46%;
+}
+
+.pos4 {
+  position:absolute; top:22%; left:48%;
+}
+
+/*******************************************CONTACT******************************************************************/
+
+/***********************************************PRESENTATION*********************************************************/
