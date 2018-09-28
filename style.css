@@ -76,17 +76,25 @@
 /*******************************************CONTACT******************************************************************/
 
 /***********************************************PRESENTATION*********************************************************/
+#avatarp {
+    background-repeat: no-repeat;
+    width: 25%;
+    height: 60vh;
+    position:absolute; top:25%; left:36%;
+    padding: 0;
+  }
+
 #textp {
     width: 50%;
     height: 20vh;
-    position:absolute; top:30%; left:26%;
+    position:absolute; top:86%; left:26%;
     text-shadow: 1px 1px 2px grey, 0 0 1em black, 0 0 0.2em black;
   }
 
 #textp2 {
       width: 50%;
       height: 20vh;
-      position:absolute; top:40%; left:26%;
+      position:absolute; top:96%; left:26%;
     }
 
 /***********************************************Média Queries********************************************************/
